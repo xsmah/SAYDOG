@@ -10,4 +10,7 @@ pkg install curl
 pkg install php
 pkg install figlet
 pkg install screenfetch
-
+clear
+cd ~/SAYDOG
+chmod 777 dog.sh
+./dog.sh
