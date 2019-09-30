@@ -10,6 +10,8 @@ y='\033[33;1m' #kuning
 d='\033[90m' #abugelap
 
 # [Coded By] Iqbalmh18
+# Youtube : SAYDOG
+# Recode Tidak akan menjadikn mu seorang Programmer !
 
 echo $r"
           ██████  ▄▄▄     ▓██   ██▓▓█████▄  ▒█████    ▄████ 
