@@ -1,7 +1,7 @@
 # SAYDOG
 Saydog Version 0.1
 # Description
-Just List My Favorite Tools
+Just My Favorite list tools
 # Installation
 ```
 $ pkg install python2
