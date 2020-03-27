@@ -1,5 +1,5 @@
 # XSMASH
-Saydog Version 0.1
+xsmash Version 0.1
 <img src="https://github.com/saydog/SAYDOG/blob/master/v1/saydog.jpg">
 # Description
 Just My Favorite list tools
